@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://enamul.dev/sitemap.xml
